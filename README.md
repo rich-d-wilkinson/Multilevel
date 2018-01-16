@@ -1,15 +1,15 @@
 # Multilevel/multifidelity working group
 
-List of key papers
+List of key papers, in an approximate suggested reading order (within each category).
 
-## Multilevel Monte Carlo
+### Multilevel Monte Carlo
 - [Multilevel Monte Carlo methods](https://people.maths.ox.ac.uk/gilesm/files/acta15.pdf) by Giles, 2015.
 
 
-## Multifidelity
+### Multifidelity
 - [Optimal Model Management for Multifidelity Monte Carlo Estimation](http://epubs.siam.org/doi/pdf/10.1137/15M1046472) by Peherstorfer, Willcox, and Gunzburger, 2016.
 
-## Multilevel emulation
+### Multilevel emulation
 
 - [Predicting the output from a complex computer code when fast approximations are available](https://www.jstor.org/stable/2673557?seq=1#page_scan_tab_contents)
 Kennedy, & O'Hagan, 2000.
