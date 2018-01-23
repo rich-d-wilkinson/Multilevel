@@ -23,3 +23,13 @@ Williamson, Goldstein, & Blaker, 2012.
 
 - [Small sample Bayesian designs for complex high-dimensional models based on information gained using fast approximations](http://www.tandfonline.com/doi/abs/10.1198/TECH.2009.08015)
 Cumming, & Goldstein, 2009.
+
+
+- [On uncertainty quantification in hydrogeology and hydrogeophysics](https://www.sciencedirect.com/science/article/pii/S0309170817304608), Linde, Ginsbourger, Irving, Nobile, Doucet, 2017.
+
+
+- [https://www.sciencedirect.com/science/article/pii/S0309170812003016](https://www.sciencedirect.com/science/article/pii/S0309170812003016), Ginsbourger, Rosspopoff, Pirot, Durrande, Renard, 2013.
+
+### Misc related work
+
+- [Estimating orthant probabilities of high dimensional Gaussian vectors with an application to set estimation](http://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1360781) Azzimonti and Ginsbourger, 2017.
