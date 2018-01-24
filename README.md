@@ -8,6 +8,14 @@ List of key papers, in an approximate suggested reading order (within each categ
 - [Multilevel Monte Carlo methods and applications to elliptic PDEs with random coefficients](http://people.maths.ox.ac.uk/~gilesm/files/cgst.pdf) by Cliffe, Giles, Scheichl and Teckentrup, 2011.
 
 
+###### Multilevel Quasi Monte Carlo
+
+- [Multilevel quasi-Monte Carlo path simulation](https://people.maths.ox.ac.uk/gilesm/files/radon.pdf) by Giles and Waterhouse, 2019;  including the greedy algorithm for choosing the optimal number of samples on each level that Rob mentioned in his informal lecture, which can also be applied for standard MLMC.
+
+- [Application of quasi-Monte Carlo methods to elliptic PDEs with random diffusion coefficients: a survey of analysis and implementation]() by Kuo and Nuyens, 2016.
+
+
+
 ### Multifidelity
 - [Optimal Model Management for Multifidelity Monte Carlo Estimation](http://epubs.siam.org/doi/pdf/10.1137/15M1046472) by Peherstorfer, Willcox, and Gunzburger, 2016.
 
@@ -37,11 +45,6 @@ Cumming, & Goldstein, 2009.
 
 
 
-### Multilevel Quasi Monte Carlo
-
-- [Multilevel quasi-Monte Carlo path simulation](https://people.maths.ox.ac.uk/gilesm/files/radon.pdf) by Giles and Waterhouse, 2019;  including the greedy algorithm for choosing the optimal number of samples on each level that Rob mentioned in his informal lecture, which can also be applied for standard MLMC.
-
-- [Application of quasi-Monte Carlo methods to elliptic PDEs with random diffusion coefficients: a survey of analysis and implementation]() by Kuo and Nuyens, 2016.
 
 ### Misc related work
 
