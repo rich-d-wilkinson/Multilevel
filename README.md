@@ -9,6 +9,9 @@ List of key papers, in an approximate suggested reading order (within each categ
 ### Multifidelity
 - [Optimal Model Management for Multifidelity Monte Carlo Estimation](http://epubs.siam.org/doi/pdf/10.1137/15M1046472) by Peherstorfer, Willcox, and Gunzburger, 2016.
 
+We held a reading group on this paper. To start the discussion on compariing MLMC and MFMC with ML-emulation, we implemented MFMC with the surrogate being a GP emulator. You can see this in the notebook [here](https://github.com/rich-d-wilkinson/Multilevel/blob/master/Multi-fidelityGPonline.ipynb).
+
+
 ### Multilevel emulation
 
 - [Predicting the output from a complex computer code when fast approximations are available](https://www.jstor.org/stable/2673557?seq=1#page_scan_tab_contents)
